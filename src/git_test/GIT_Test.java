@@ -14,7 +14,11 @@ public class GIT_Test {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello");
+        
+    }
+    
+    public void hello(){
+        System.out.println("hello");
     }
     
 }
